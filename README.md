@@ -7,6 +7,7 @@ Python
 ADB (included in the package so it's no problem)
 
 pycryptodome or cryptography (either one installed with pip)
+
 that's basically it (will be updated once i get all the requirements)
 
 # required commands to run
