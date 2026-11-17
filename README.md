@@ -18,3 +18,4 @@ adb reverse tcp:8080 tcp:8080 (run this twice by pressing the up arrow key after
 the server runs locally on your machine, right now, only Windows has been tested, so Linux and macOS support is not guaranteed unless someone tests it and makes an issue
 
 there's also a missing - on the splash screen that i modified, so don't forget that!
+ 
