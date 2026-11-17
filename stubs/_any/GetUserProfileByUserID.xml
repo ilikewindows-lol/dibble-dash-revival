@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserProfileDisplayData>
+  <ID />
+  <Avatar>
+  <AvatarData>
+  <DisplayName />
+  <Gender>0</Gender>
+</AvatarData>
+  <UserInfo xmlns="http://api.jumpstart.com/">
+  <MembershipID xmlns="" />
+  <UserID xmlns="" />
+  <ParentUserID xmlns="" />
+  <Username xmlns="" />
+  <FirstName xmlns="" />
+  <MultiplayerEnabled xmlns="">true</MultiplayerEnabled>
+  <Partner xmlns="" />
+  <lid xmlns="" />
+  <oce xmlns="">true</oce>
+  <IsApproved xmlns="">true</IsApproved>
+</UserInfo>
+  <UserSubscriptionInfo>
+  <UserID />
+  <SubscriptionTypeID>0</SubscriptionTypeID>
+  <SubscriptionDisplayName />
+  <PID />
+</UserSubscriptionInfo>
+  <AchievementInfo>
+  <n />
+  <r>0</r>
+</AchievementInfo>
+  <RankID>0</RankID>
+</Avatar>
+  <Ach>0</Ach>
+  <Mth>0</Mth>
+  <Answer>
+  <ID />
+</Answer>
+  <Game>
+  <GameID>0</GameID>
+  <IsMultiplayer>true</IsMultiplayer>
+  <Difficulty>0</Difficulty>
+  <GameLevel>0</GameLevel>
+  <Key />
+</Game>
+  <BuddyCount>0</BuddyCount>
+  <UPT>
+  <Date>2014-01-01T00:00:00</Date>
+  <PGID>0</PGID>
+  <User>0f1e2d3c-4b5a-4968-8776-655443322110</User>
+  <ID>0</ID>
+</UPT>
+</UserProfileDisplayData>

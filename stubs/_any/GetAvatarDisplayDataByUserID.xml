@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AvatarDisplayData>
+  <AvatarData>
+  <DisplayName />
+  <Gender>0</Gender>
+</AvatarData>
+  <UserInfo xmlns="http://api.jumpstart.com/">
+  <MembershipID xmlns="" />
+  <UserID xmlns="" />
+  <ParentUserID xmlns="" />
+  <Username xmlns="" />
+  <FirstName xmlns="" />
+  <MultiplayerEnabled xmlns="">true</MultiplayerEnabled>
+  <Partner xmlns="" />
+  <lid xmlns="" />
+  <oce xmlns="">true</oce>
+  <IsApproved xmlns="">true</IsApproved>
+</UserInfo>
+  <UserSubscriptionInfo>
+  <UserID />
+  <SubscriptionTypeID>0</SubscriptionTypeID>
+  <SubscriptionDisplayName />
+  <PID />
+</UserSubscriptionInfo>
+  <AchievementInfo>
+  <n />
+  <r>0</r>
+</AchievementInfo>
+  <RankID>0</RankID>
+</AvatarDisplayData>

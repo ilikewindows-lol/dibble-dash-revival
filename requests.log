@@ -1,0 +1,115 @@
+13:35:20 GET /NFLMobile/NFLCombine/Android/1.0.1/UnibillInventory_Google.json.txt -> 404 NOT FOUND (no file named 'UnibillInventory_Google.json.txt' in files/, www/ or UnityCache)
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:20 GET /DWAMobile/PoMRunner/Android/1.0.1/DWAPoMRunner.xml -> 200 static www\DWAPoMRunner.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:21 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/ProductVersionPoM.xml?v=0 -> 200 static www\ProductVersionPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:21 POST /AnalyticsWebService.asmx/LogEvent -> 200 stub AnalyticsWebService/LogEvent
+  Host: alyxxx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=6e9b6ab7-6e10-4b82-8daf-5f1073dbf1ed&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&eventXml=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3cLogEvent+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22%3e%0a++%3cApiKey%3e1908BA66-49C5-4D43-BBCC-C798DD43A368%3c%2fApiKey%3e%0a++%3cApiToken%3e6e9b6ab7-6e10-4b82-8daf-5f1073dbf1ed%3c%2fApiToken%3e%0a++%3cEventTypeID%3e110%3c%2fEventTypeID%3e%0a++%3cEventCategoryID%3e2%3c%2fEventCategoryID%3e%0a++%3cData%3eDWAPoMRunner%3c%2fData%3e%0a%3c%2fLogEvent%3e
+13:35:21 POST /AnalyticsWebService.asmx/LogEvent -> 200 stub AnalyticsWebService/LogEvent
+  Host: alyxxx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=6e9b6ab7-6e10-4b82-8daf-5f1073dbf1ed&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&eventXml=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3cLogEvent+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22%3e%0a++%3cApiKey%3e1908BA66-49C5-4D43-BBCC-C798DD43A368%3c%2fApiKey%3e%0a++%3cApiToken%3e6e9b6ab7-6e10-4b82-8daf-5f1073dbf1ed%3c%2fApiToken%3e%0a++%3cEventTypeID%3e108%3c%2fEventTypeID%3e%0a++%3cEventCategoryID%3e2%3c%2fEventCategoryID%3e%0a++%3cData%3eStartup%3c%2fData%3e%0a%3c%2fLogEvent%3e
+13:35:22 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/AssetVersionsPoMRunner.xml?v=0 -> 200 static www\AssetVersionsPoMRunner.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:22 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/PrefetchListPoM.xml?v=1048401915 -> 200 static www\PrefetchListPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:23 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/GameDataConfigPoM.xml?v=1666416056 -> 200 static www\GameDataConfigPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:24 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/POMMoreGamesData.xml?v=1822705595 -> 200 static www\POMMoreGamesData.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:25 GET /DWAMobile/PoMRunner/Android/1.0.1/ContentData/TbPOMRunnerLessons.xml?v=195417387 -> 200 static www\TbPOMRunnerLessons.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:25 GET /DWAMobile/PoMRunner/Android/1.0.1/ContentData/TbPOMRunnerTrapCaptures.xml?v=1897754854 -> 200 static www\TbPOMRunnerTrapCaptures.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:25 GET /DWAMobile/PoMRunner/Android/1.0.1/ContentData/TbPOMRunnerRescueCaptures.xml?v=1413360456 -> 200 static www\TbPOMRunnerRescueCaptures.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:25 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/DailyBonusAndPromoPoM.xml?v=163828116 -> 200 static www\DailyBonusAndPromoPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:25 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/AdMobDataPoM.xml?v=689439818 -> 200 static www\AdMobDataPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:25 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/StoreDataPoM.xml?v=1455103182 -> 200 static www\StoreDataPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:25 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/TbCreditsPoM.xml?v=615853263 -> 200 static www\TbCreditsPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:26 POST /AnalyticsWebService.asmx/LogEvent -> 200 stub AnalyticsWebService/LogEvent
+  Host: alyxxx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=6e9b6ab7-6e10-4b82-8daf-5f1073dbf1ed&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&eventXml=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3cLogEvent+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22%3e%0a++%3cApiKey%3e1908BA66-49C5-4D43-BBCC-C798DD43A368%3c%2fApiKey%3e%0a++%3cApiToken%3e6e9b6ab7-6e10-4b82-8daf-5f1073dbf1ed%3c%2fApiToken%3e%0a++%3cEventTypeID%3e109%3c%2fEventTypeID%3e%0a++%3cEventCategoryID%3e2%3c%2fEventCategoryID%3e%0a++%3cData%3eStartUp%2c0%3c%2fData%3e%0a%3c%2fLogEvent%3e
+13:35:26 POST /AnalyticsWebService.asmx/LogEvent -> 200 stub AnalyticsWebService/LogEvent
+  Host: alyxxx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=6e9b6ab7-6e10-4b82-8daf-5f1073dbf1ed&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&eventXml=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3cLogEvent+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22%3e%0a++%3cApiKey%3e1908BA66-49C5-4D43-BBCC-C798DD43A368%3c%2fApiKey%3e%0a++%3cApiToken%3e6e9b6ab7-6e10-4b82-8daf-5f1073dbf1ed%3c%2fApiToken%3e%0a++%3cEventTypeID%3e108%3c%2fEventTypeID%3e%0a++%3cEventCategoryID%3e2%3c%2fEventCategoryID%3e%0a++%3cData%3eRunnerPoM%3c%2fData%3e%0a%3c%2fLogEvent%3e
+13:35:26 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/AdMobDataPoM.xml?v=689439818 -> 200 static www\AdMobDataPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:26 GET /DWAMobile/PoMRunner/Android/1.0.1/ContentData/TbPOMRunnerLessons.xml?v=195417387 -> 200 static www\TbPOMRunnerLessons.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:26 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/StoreDataPoM.xml?v=1455103182 -> 200 static www\StoreDataPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:26 POST /v3/AuthenticationWebService.asmx/LoginParent -> 200 stub AuthenticationWebService/LoginParent
+  Host: common-apixxx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&parentLoginData=wcoxswfxba37kwHEnvW5nWoeGamI5B2Glt2u8h3o22iPJ7sKu6iayXKMOf0IHjJWRDUnimXy2uF6FV%2by51OSJj%2fsPs%2f%2fu82T1tcNTF6F6ZB9h5ZgxtnfeR%2f9xKwRVAii3YON0RwhBepUafgis7eX%2fgdi%2bVnJTgvOmr1AWFUzrSdDY74P74KV4vIrwIONnYwMqJCxoQdThZlNfBvogYU8mxbbLBIFZpHtylVVT8SVZ5zK8AiEJ8SSBpeaFRVB%2bS5dgA1xmcgmQocnsh1tBTBlEoHcpE8NO36aobjjKpF%2bxY8Dgp5pwE6BhLA6nHKm4GKSz7M3z8gzSATXyC%2fjuNJ3IjWKyx33wEbJ5rBcXksNrb2zE55c1F%2ff3RoWkDRsNU3LOHpZ2bWFoKQAPjF3Rz2fMUMr%2fyZCsnF09RM63NBCpPHSLhk%2bZcEvBH5Nk06z9xVVlCieo8gvena5euY6YgWpbcuCaq5D6%2ftQIUpo080IPeFi%2b8wnQLcwVDvPkZ9XO9BtixDRXq9DuUGMG2K4oM%2feXQlDJyd4BtlBF1ufQZBYt4qbCu0EfvYoe9Eczvd4n67WlS86pGwzUFMabNoCmSGvJjZzvShDOYe0mrMYtPQywu2rEhvGC2tfWb%2bfPjLPo2nyy7SX4F2aAN5vVsf42tNCNnBB1Ge0s97papeH%2fsuf8Lsdhsu0xBex%2bLhvvFt5BJpgZWXyhuvWJbgeOgAktFDRpy4gyGQB4hMwwKe3L3VhkuQd36ZVLSpBuMjgJVdLrg%2bWBBFkx9JY58dYzgOFITJvQ%2bN84eWCcILVa0l0bPvjY1x2CkpQmTRIvzpRvHumhPhQ
+13:35:27 GET /DWAMobile/PoMRunner/Android/1.0.1/ContentData/TbPOMRunnerRescueCaptures.xml?v=1413360456 -> 200 static www\TbPOMRunnerRescueCaptures.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:27 GET /DWAMobile/PoMRunner/Android/1.0.1/ContentData/TbPOMRunnerTrapCaptures.xml?v=1897754854 -> 200 static www\TbPOMRunnerTrapCaptures.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:27 POST /AuthenticationWebService.asmx/LoginChild -> 200 stub AuthenticationWebService/LoginChild
+  Host: common-apixxx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&parentApiToken=5a3f0e2c-8d41-4c5b-9a77-1e2d3c4b5a69&ticks=639305121218293080&signature=32be72407d5a669a14ac2e4ddfd542d3&childUserID=oUxJKPRrTjGtAR%2fv9yPhbz%2fjtMWzkRcotHVxRr5zX6ee2ajkvUkVrC2chfdD46imEx7hj%2btd3Opdy%2fUcYsd0B94eMb75vHGqOlG8e6aE%2bFA%3d&locale=en-US
+13:35:28 POST /ContentWebService.asmx/GetKeyValuePair -> 200 dynamic ContentWebService/GetKeyValuePair (pairId 4562: 23 values)
+  Host: contentserver-apixx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=5a3f0e2c-8d41-4c5b-9a77-1e2d3c4b5a69&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&pairId=4562
+13:35:28 POST /ContentWebService.asmx/GetCommonInventory -> 200 dynamic ContentWebService/GetCommonInventory (10 items)
+  Host: contentserver-apixx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=5a3f0e2c-8d41-4c5b-9a77-1e2d3c4b5a69&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&ContainerId=1
+13:35:28 GET /DWAMobile/PoMRunner/Android/1.0.1/Data/DailyBonusAndPromoPoM.xml?v=163828116 -> 200 static www\DailyBonusAndPromoPoM.xml
+  Host: mediaxx.lvh.me:8080
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+13:35:28 POST /ProfileWebService.asmx/GetUserProfile -> 200 dynamic ProfileWebService/GetUserProfile (game=30890986 cash=405000)
+  Host: user-apixx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=5a3f0e2c-8d41-4c5b-9a77-1e2d3c4b5a69&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368
+13:35:29 POST /ContentWebService.asmx/SetKeyValuePair -> 200 dynamic ContentWebService/SetKeyValuePair (pairId 4562: saved 23, total 23)
+  Host: contentserver-apixx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=5a3f0e2c-8d41-4c5b-9a77-1e2d3c4b5a69&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&pairId=4562&contentXML=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3cPairs+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLMD%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLP%3c%2fPairKey%3e%0a++++%3cPairValue%3e11%2f17%2f2026+3%3a57%3a10+AM%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLPC%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eCRC%3c%2fPairKey%3e%0a++++%3cPairValue%3efalse%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLCMI%3c%2fPairKey%3e%0a++++%3cPairValue%3e-1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLSMI%3c%2fPairKey%3e%0a++++%3cPairValue%3e14%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM100%3c%2fPairKey%3e%0a++++%3cPairValue%3e2%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM101%3c%2fPairKey%3e%0a++++%3cPairValue%3e2%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM102%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM103%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM104%3c%2fPairKey%3e%0a++++%3cPairValue%3e2%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eFREE_ITEMS%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9828%3c%2fPairKey%3e%0a++++%3cPairValue%3e3%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL10407%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9824%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eTutPoM%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9814%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL1112%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9801%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9796%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9791%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9842%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9837%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a%3c%2fPairs%3e&ticks=639305121218293081&signature=4b1f08f3e1f9f4983b6a100e76327005
+13:35:30 POST /ContentWebService.asmx/SetKeyValuePair -> 200 dynamic ContentWebService/SetKeyValuePair (pairId 4562: saved 23, total 23)
+  Host: contentserver-apixx.lvh.me:8080
+  Content-Type: application/x-www-form-urlencoded
+  User-Agent: Dalvik/2.1.0 (Linux; U; Android 14; 22101320G Build/UKQ1.240624.001)
+  BODY: apiToken=5a3f0e2c-8d41-4c5b-9a77-1e2d3c4b5a69&apiKey=1908ba66-49c5-4d43-bbcc-c798dd43a368&pairId=4562&contentXML=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3cPairs+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLMD%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLP%3c%2fPairKey%3e%0a++++%3cPairValue%3e11%2f17%2f2026+3%3a57%3a10+AM%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLPC%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eCRC%3c%2fPairKey%3e%0a++++%3cPairValue%3efalse%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLCMI%3c%2fPairKey%3e%0a++++%3cPairValue%3e-1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eLSMI%3c%2fPairKey%3e%0a++++%3cPairValue%3e14%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM100%3c%2fPairKey%3e%0a++++%3cPairValue%3e2%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM101%3c%2fPairKey%3e%0a++++%3cPairValue%3e2%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM102%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM103%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eDM104%3c%2fPairKey%3e%0a++++%3cPairValue%3e2%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eFREE_ITEMS%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9828%3c%2fPairKey%3e%0a++++%3cPairValue%3e3%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL10407%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9824%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eTutPoM%3c%2fPairKey%3e%0a++++%3cPairValue%3e1%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9814%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL1112%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9801%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9796%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9791%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9842%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a++%3cPair%3e%0a++++%3cPairKey%3eUL9837%3c%2fPairKey%3e%0a++++%3cPairValue%3e4%3c%2fPairValue%3e%0a++++%3cUpdateDate%3e0001-01-01T00%3a00%3a00%3c%2fUpdateDate%3e%0a++%3c%2fPair%3e%0a%3c%2fPairs%3e&ticks=639305121218293082&signature=016b3230812e8fe2318410e25536858a

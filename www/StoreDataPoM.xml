@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<StoreInfo>
+	
+	<StoreID>100</StoreID>
+		<StoreName>
+			<Text>Expansion Packs</Text>
+			<ID>10000</ID>
+		</StoreName>
+		
+		<StoreIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMContentItem2</StoreIcon>
+		<CategoryData>
+			<CategoryID>488</CategoryID>
+			
+			<CategoryName>
+				<Text></Text>
+				<ID>0</ID>
+			</CategoryName>
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMContentCase</CategoryIcon>
+			
+			<ItemData>
+				<ItemID>9952</ItemID>
+				
+				<ItemName>
+					<Text>Expansion Pack 1: Aquarium</Text>
+					<ID>10010</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Includes Multiplication/Division lessons, Mermaid Disguises,  and Shanghai Aquarium location.</Text>
+					<ID>10044</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMContentCase</IconName>
+				<ItemRes>RS_DATA/PfPlayerMermaidPoM.unity3d/PfPlayerMermaidPoM</ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Bundle</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>200</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+<!--			<ItemData>
+				<ItemID>9953</ItemID>
+				
+				<ItemName>
+					<Text>Expansion Pack 2: TBD</Text>
+					<ID>0</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Includes educational content, new costume and TBD theme</Text>
+					<ID>0</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMLocationAquarium</IconName>
+				<ItemRes>RS_DATA/PfPlayerDefaultPoM.unity3d/PfPlayerDefaultPoM</ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Bundle</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>200</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+			</ItemData>
+
+			<ItemData>
+				<ItemID>10099</ItemID>
+				
+				<ItemName>
+					<Text>Expansion Pack 3: North Wind</Text>
+					<ID>0</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Includes educational content, new costume and North Wind theme</Text>
+					<ID>0</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMLocationAquarium</IconName>
+				<ItemRes>RS_DATA/PfPlayerDefaultPoM.unity3d/PfPlayerDefaultPoM</ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Bundle</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>500</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+			</ItemData> -->
+		</CategoryData>
+		
+		</StoreInfo>
+		
+		<StoreInfo>
+		<StoreID>101</StoreID>
+		
+		<StoreName>
+			<Text>Costumes</Text>
+			<ID>10001</ID>
+		</StoreName>
+		
+		<StoreIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMContentItem2</StoreIcon>
+		<CategoryData>
+			<CategoryID>500</CategoryID>
+			<CategoryName>
+				<Text>Costumes</Text>
+				<ID>10001</ID>
+			</CategoryName>
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMCostumeItem1</CategoryIcon>
+			
+			<ItemData>
+				<ItemID>10215</ItemID>
+				<ItemName>
+					<Text>No Disguise</Text>
+					<ID>10011</ID>
+				</ItemName>
+				<Description>
+					<Text>Cool Costumes for sale!!</Text>
+					<ID>10045</ID>
+				</Description>
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMNoDisguise</IconName>
+				<ItemRes>RS_DATA/PfPlayerDefaultPoM.unity3d/PfPlayerDefaultPoM</ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Costume</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9843</ItemID>
+				<ItemName>
+					<Text>Disguise</Text>
+					<ID>10012</ID>
+				</ItemName>
+				<Description>
+					<Text>Cool Costumes for sale!!</Text>
+					<ID>10045</ID>
+				</Description>
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMDisguise</IconName>
+				<ItemRes>RS_DATA/PfPlayerMermaidPoM.unity3d/PfPlayerMermaidPoM</ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Costume</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>100</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9844</ItemID>
+				<ItemName>
+					<Text>TBD Costume</Text>
+					<ID>0</ID>
+				</ItemName>
+				<Description>
+					<Text>Cool Costumes for sale!!</Text>
+					<ID>10045</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMCostumeItem2</IconName>
+				<ItemRes>RS_DATA/PfPlayerDefaultPoM.unity3d/PfPlayerDefaultPoM</ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Costume</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>100</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+			<ItemData>
+				<ItemID>9845</ItemID>
+				<ItemName>
+					<Text>North Wind Costume</Text>
+					<ID>10014</ID>
+				</ItemName>
+				<Description>
+					<Text>Cool Costumes for sale!!</Text>
+					<ID>10045</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMCostumeItem1</IconName>
+				<ItemRes>RS_DATA/PfPlayerDefaultPoM.unity3d/PfPlayerDefaultPoM</ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Costume</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>200</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+		</CategoryData>		
+
+		<CategoryData>
+			<CategoryID>501</CategoryID>
+			
+			<CategoryName>
+				<Text>Contents</Text>
+				<ID>10003</ID>
+			</CategoryName>
+			
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMCostumeItem1</CategoryIcon>
+						
+			<ItemData>
+				<ItemID>9949</ItemID>
+				
+				<ItemName>
+					<Text>Education Expansion 1</Text>
+					<ID>10015</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Buy Math content pack</Text>
+					<ID>10046</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMContentItem2</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Content</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>200</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+			<ItemData>
+				<ItemID>9950</ItemID>
+				
+				<ItemName>
+					<Text>Education Expansion 2</Text>
+					<ID>10016</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Buy Math content pack</Text>
+					<ID>10046</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMContentItem3</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Content</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>300</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+			<ItemData>
+				<ItemID>9951</ItemID>
+				
+				<ItemName>
+					<Text>Education Expansion 3</Text>
+					<ID>10017</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Buy Math content pack</Text>
+					<ID>10046</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMContentItem1</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Content</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>100</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+		</CategoryData>		
+
+		<CategoryData>
+			<CategoryID>502</CategoryID>
+			
+			<CategoryName>
+				<Text>Themes</Text>
+				<ID>10003</ID>
+			</CategoryName>
+			
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMCostumeItem1</CategoryIcon>
+			
+			<ItemData>
+				<ItemID>10214</ItemID>
+				
+				<ItemName>
+					<Text>Default Theme :Venice</Text>
+					<ID>10018</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Venice theme</Text>
+					<ID>10047</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMLocationVenice</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Theme</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+			<ItemData>
+				<ItemID>10100</ItemID>
+				
+				<ItemName>
+					<Text>Theme 1: Aquarium</Text>
+					<ID>10019</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Aquarium theme</Text>
+					<ID>10048</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMLocationAquarium</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Theme</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>200</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+			<ItemData>
+				<ItemID>10101</ItemID>
+				
+				<ItemName>
+					<Text>Theme 2: TBD</Text>
+					<ID>0</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>TBD theme</Text>
+					<ID>0</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMLocationAquarium</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Theme</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>200</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+			<ItemData>
+				<ItemID>10102</ItemID>
+				
+				<ItemName>
+					<Text>Theme 3: North Wind</Text>
+					<ID>10021</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>North Wind theme</Text>
+					<ID>10050</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMLocationAquarium</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Theme</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>500</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+			</ItemData>
+
+		</CategoryData>		
+
+	</StoreInfo>
+    
+    	<StoreInfo>
+		<StoreID>102</StoreID>
+		
+		<StoreName>
+			<Text>Gold Bars &amp; Dibbles</Text>
+			<ID>10104</ID>
+		</StoreName>
+		
+		<StoreIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleItem</StoreIcon>
+		
+		<!--- <CategoryData>
+		<CategoryID>1234567</CategoryID>
+			
+			<CategoryName>
+				<Text>Free Gold Bars</Text>
+				<ID>10106</ID>
+			</CategoryName>
+			
+			<ItemData>
+				<ItemID>12345679</ItemID>
+				
+				<ItemName>
+					<Text>Earn Free Gold!</Text>
+					<ID>10022</ID>
+				</ItemName>
+				
+				<Description>
+					<Text></Text>
+					<ID>0</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMGoldPack01</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>OfferWall</ItemType>
+				<InventoryType>Unknown</InventoryType>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>Unknown</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+		</CategoryData> -->
+		
+		<CategoryData>
+			<CategoryID>5000</CategoryID>
+			
+			<CategoryName>
+				<Text>Gold Bars</Text>
+				<ID>10004</ID>
+			</CategoryName>
+			
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleItem</CategoryIcon>
+            <ItemData>
+				<ItemID>502</ItemID>
+				
+				<ItemName>
+					<Text>Handful of Gold Bars</Text>
+					<ID>10023</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Purchase 100 Gold Bars</Text>
+					<ID>10051</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMGoldPack01</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>100</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>CC</InventoryType>
+				<PriceInfo>
+					<AppStoreID>pomrunner_vc1</AppStoreID>
+					<Price>0.99</Price>
+					<Currency>$</Currency>
+					<PriceType>IAP</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+            
+            <ItemData>
+				<ItemID>503</ItemID>
+				
+				<ItemName>
+					<Text>Stack of Gold Bars</Text>
+					<ID>10024</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Purchase 550 Gold Bars</Text>
+					<ID>10052</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMGoldPack02</IconName>
+				<ItemRes>RS_DATA/IconsPoM.unity3d/AniDWPoMGoldPack02</ItemRes>
+				<Quantity>550</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>CC</InventoryType>
+				<PriceInfo>
+					<AppStoreID>pomrunner_vc2</AppStoreID>
+					<Price>4.99</Price>
+					<Currency>$</Currency>
+					<PriceType>IAP</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+            
+            <ItemData>
+				<ItemID>504</ItemID>
+				
+				<ItemName>
+					<Text>Load of Gold Bars</Text>
+					<ID>10025</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Purchase 1,100 Gold Bars</Text>
+					<ID>10053</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMGoldPack03</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1100</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>CC</InventoryType>
+				<PriceInfo>
+					<AppStoreID>pomrunner_vc3</AppStoreID>
+					<Price>9.99</Price>
+					<Currency>$</Currency>
+					<PriceType>IAP</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+            
+            <ItemData>
+				<ItemID>505</ItemID>
+				
+				<ItemName>
+					<Text>Gold Bars Aplenty</Text>
+					<ID>10026</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Purchase 275,000 Gold Bars</Text>
+					<ID>10054</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMGoldPack04</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>275000</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>CC</InventoryType>
+				<PriceInfo>
+					<AppStoreID>pomrunner_vc4</AppStoreID>
+					<Price>24.99</Price>
+					<Currency>$</Currency>
+					<PriceType>IAP</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+			
+<!--			<ItemData>
+				<ItemID>506</ItemID>
+				
+				<ItemName>
+					<Text>Ton of Gold Bars</Text>
+					<ID>0</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Purchase 6,000 Gold Bars</Text>
+					<ID>0</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMGoldPack04</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>6000</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>CC</InventoryType>
+				<PriceInfo>
+					<AppStoreID>pomrunner_vc5</AppStoreID>
+					<Price>50</Price>
+					<Currency>$</Currency>
+					<PriceType>IAP</PriceType>
+				</PriceInfo>
+			</ItemData>-->
+			
+<!--			<ItemData>
+				<ItemID>507</ItemID>
+				
+				<ItemName>
+					<Text>Vault of Gold Bars</Text>
+					<ID>0</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Purchase 12,000 Gold Bars	</Text>
+					<ID>0</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMGoldPack04</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>12000</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>CC</InventoryType>
+				<PriceInfo>
+					<AppStoreID>pomrunner_vc6</AppStoreID>
+					<Price>100</Price>
+					<Currency>$</Currency>
+					<PriceType>IAP</PriceType>
+				</PriceInfo>
+			</ItemData>-->
+		</CategoryData>
+
+		<CategoryData>
+			<CategoryID>490</CategoryID>
+			
+			<CategoryName>
+				<Text>Cheesy Dibbles</Text>
+				<ID>10005</ID>
+			</CategoryName>
+			
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleItem</CategoryIcon>
+			<ItemData>
+				<ItemID>9878</ItemID>
+				
+				<ItemName>
+					<Text>Dibbles Pack 1 (75,000)</Text>
+					<ID>10027</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>75000 Cheesy Dibbles</Text>
+					<ID>10055</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMDibblesPack02</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>75000</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>GC</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9922</ItemID>
+				
+				<ItemName>
+					<Text>Dibbles Pack 2 (150,000)</Text>
+					<ID>10028</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>150,000 Cheesy Dibbles</Text>
+					<ID>10056</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMDibblesPack03</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>150000</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>GC</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9923</ItemID>
+				
+				<ItemName>
+					<Text>Dibbles Pack 3 (750,000)</Text>
+					<ID>10029</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>750,000 Cheesy Dibbles</Text>
+					<ID>10057</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMDibblesPack04</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>750000</Quantity>
+				<ItemType>Unknown</ItemType>
+				<InventoryType>GC</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+		</CategoryData>
+	</StoreInfo>
+    
+    
+    
+    <StoreInfo>
+		<StoreID>103</StoreID>
+		
+		<StoreName>
+			<Text>Items</Text>
+			<ID>10105</ID>
+		</StoreName>
+		
+		<StoreIcon>RS_DATA/IconsPoM.unity3d/IcoStoreCombineBucks</StoreIcon>
+		
+		<CategoryData>
+			<CategoryID>499</CategoryID>
+			<CategoryName>
+				<Text>One Time Purchase</Text>
+				<ID>10006</ID>
+			</CategoryName>
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMCostumeItem1</CategoryIcon>
+			<ItemData>
+				<ItemID>9830</ItemID>
+				
+				<ItemName>
+					<Text>Dibble Doubler</Text>
+					<ID>10030</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>One time purchase which doubles all Cheezy Dibbles received forever.</Text>
+					<ID>10058</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMDoubleDibbles</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>500</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>1</InventoryMax>
+            </ItemData>
+      </CategoryData>
+      
+		<CategoryData>
+			<CategoryID>497</CategoryID>
+			
+			<CategoryName>
+				<Text>Consumables</Text>
+				<ID>10007</ID>
+			</CategoryName>
+			
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoStoreCombineBucks</CategoryIcon>
+			<ItemData>
+				<ItemID>9814</ItemID>
+				
+				<ItemName>
+					<Text>Headstart</Text>
+					<ID>10031</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Launches penguins 500 - 1000 meters at start of the run.</Text>
+					<ID>10059</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMHeadStart</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+            </ItemData>
+			
+			
+			<ItemData>
+				<ItemID>9824</ItemID>
+				
+				<ItemName>
+					<Text>Last Ditch Effort</Text>
+					<ID>10032</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Launches penguins 500 - 1000 meters at end of the run.</Text>
+					<ID>10060</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMLastDitch</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+            </ItemData>
+            <ItemData>
+				<ItemID>10407</ItemID>
+				
+				<ItemName>
+					<Text>Dibbles Mutliplier</Text>
+					<ID>10035</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Dibbles Mutliplier</Text>
+					<ID>10063</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleMultiplier2</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>		
+            
+			<ItemData>
+				<ItemID>9939</ItemID>
+				
+				<ItemName>
+					<Text>Mystery box</Text>
+					<ID>10033</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Rewards a mystery item!</Text>
+					<ID>10061</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMCollectMysteryBox</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>MysteryBox</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+			
+
+			<ItemData>
+				<ItemID>9828</ItemID>
+				
+				<ItemName>
+					<Text>Save the Penguins</Text>
+					<ID>10034</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Saves 1 penguin from the Goo!</Text>
+					<ID>10062</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMRevive</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+            </ItemData>
+			
+		</CategoryData>
+		<CategoryData>
+			<CategoryID>487</CategoryID>
+			
+			<CategoryName>
+				<Text>Consumable Upgrades</Text>
+				<ID>10008</ID>
+			</CategoryName>
+			
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoStoreCombineBucks</CategoryIcon>
+			
+			<ItemData>
+				<ItemID>9814</ItemID>
+				
+				<ItemName>
+					<Text>Headstart</Text>
+					<ID>10031</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Launches penguins 500 - 1000 meters at start of the run.</Text>
+					<ID>10059</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMHeadStart</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Launches penguins 1000 - 1500 meters at start of the run.</Text>
+						<ID>10073</ID>
+					</Description>
+					
+					<TokenID>9810</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Launches penguins 1500 - 2000 meters at start of the run.</Text>
+						<ID>10074</ID>
+					</Description>
+					
+					<TokenID>9811</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Launches penguins 2000 - 2500 meters at start of the run.</Text>
+						<ID>10075</ID>
+					</Description>
+					
+					<TokenID>9812</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Launches penguins 2500 - 3500 meters at start of the run.</Text>
+						<ID>10076</ID>
+					</Description>
+					
+					<TokenID>9813</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9824</ItemID>
+				
+				<ItemName>
+					<Text>Last Ditch Effort</Text>
+					<ID>10032</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Launches penguins 500 - 1000 meters at end of the run.</Text>
+					<ID>10060</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMLastDitch</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Launches penguins 1000 - 1500 meters at end of the run.</Text>
+						<ID>10077</ID>
+					</Description>
+					
+					<TokenID>9820</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Launches penguins 1500 - 2000 meters at end of the run.</Text>
+						<ID>10078</ID>
+					</Description>
+					
+					<TokenID>9821</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Launches penguins 2000 - 2500 meters at end of the run.</Text>
+						<ID>10079</ID>
+					</Description>
+					
+					<TokenID>9822</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Launches penguins 2500 - 3500 meters at end of the run.</Text>
+						<ID>10080</ID>
+					</Description>
+					
+					<TokenID>9823</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>
+			<ItemData>
+				<ItemID>10407</ItemID>
+				
+				<ItemName>
+					<Text>Dibbles Mutliplier</Text>
+					<ID>10035</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Dibbles Mutliplier</Text>
+					<ID>10063</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleMultiplier2</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Increases duration of Dibbles Multiplier to 10 seconds.</Text>
+						<ID>10084</ID>
+					</Description>
+					
+					<TokenID>10095</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Increases duration of Dibbles Multiplier to 15 seconds.</Text>
+						<ID>10085</ID>
+					</Description>
+					
+					<TokenID>10096</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Increases duration of Dibbles Multiplier to 20 seconds.</Text>
+						<ID>10086</ID>
+					</Description>
+					
+					<TokenID>10097</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Increases duration of Dibbles Multiplier to 30 seconds.</Text>
+						<ID>10087</ID>
+					</Description>
+					
+					<TokenID>10098</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>
+			<ItemData>
+				<ItemID>9828</ItemID>
+				
+				<ItemName>
+					<Text>Save the Penguins</Text>
+					<ID>10034</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Saves 1 penguin from the Medusa Serum!</Text>
+					<ID>10062</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMRevive</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Saves 2 penguins from the Medusa Serum!</Text>
+						<ID>10081</ID>
+					</Description>
+					
+					<TokenID>9825</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Saves 3 penguins from the Medusa Serum!</Text>
+						<ID>10082</ID>
+					</Description>
+					
+					<TokenID>9826</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Saves all the penguins from the Medusa Serum!</Text>
+						<ID>10083</ID>
+					</Description>
+					
+					<TokenID>9827</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>			
+		</CategoryData>
+		<CategoryData>
+			<CategoryID>485</CategoryID>
+			
+			<CategoryName>
+				<Text>PowerUp Upgrades</Text>
+				<ID>10009</ID>
+			</CategoryName>
+			
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoStoreCombineBucks</CategoryIcon>
+			<ItemData>
+				<ItemID>9791</ItemID>
+				
+				<ItemName>
+					<Text>Dynamite</Text>
+					<ID>10036</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Dynamite</Text>
+					<ID>10064</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMRicoDynamite</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>PowerUp</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Reduces cooldown of Dynamite.</Text>
+						<ID>10089</ID>
+					</Description>
+					
+					<TokenID>9792</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Increases radius of Dynamite blast.</Text>
+						<ID>10088</ID>
+					</Description>
+					
+					<TokenID>9793</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Reduces cooldown of Dynamite.</Text>
+						<ID>10089</ID>
+					</Description>
+					
+					<TokenID>9794</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Increases radius of Dynamite blast.</Text>
+						<ID>10088</ID>
+					</Description>
+					
+					<TokenID>9795</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9796</ItemID>
+				
+				<ItemName>
+					<Text>Abacus</Text>
+					<ID>10037</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Abacus</Text>
+					<ID>10065</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMKowalskiAbacus</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>PowerUp</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Reduces cooldown of Abacus.</Text>
+						<ID>10090</ID>
+					</Description>
+					
+					<TokenID>9797</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Removes 2 incorrect answers.</Text>
+						<ID>10091</ID>
+					</Description>
+					
+					<TokenID>9798</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Reduces cooldown of Abacus.</Text>
+						<ID>10090</ID>
+					</Description>
+					
+					<TokenID>9799</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Removes 3 incorrect answers.</Text>
+						<ID>10091</ID>
+					</Description>
+					
+					<TokenID>9800</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9801</ItemID>
+				
+				<ItemName>
+					<Text>Jetpack</Text>
+					<ID>10038</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Jetpack</Text>
+					<ID>10066</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMSkipperJetpack</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>PowerUp</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Reduces cooldown of Jetpack.</Text>
+						<ID>10093</ID>
+					</Description>
+					
+					<TokenID>9802</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Increases distance of Jetpack.</Text>
+						<ID>10092</ID>
+					</Description>
+					
+					<TokenID>9803</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Reduces cooldown of Jetpack.</Text>
+						<ID>10093</ID>
+					</Description>
+					
+					<TokenID>9804</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Increases distance of Jetpack.</Text>
+						<ID>10092</ID>
+					</Description>
+					
+					<TokenID>9805</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>1112</ItemID>
+				
+				<ItemName>
+					<Text>Medicine</Text>
+					<ID>10039</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Medicine</Text>
+					<ID>10067</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMPrivateHealth</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>PowerUp</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Reduces cooldown of Medicine Powerup.</Text>
+						<ID>10094</ID>
+					</Description>
+					
+					<TokenID>9806</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Heals 2 Penguins.</Text>
+						<ID>10095</ID>
+					</Description>
+					
+					<TokenID>9807</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Reduces cooldown of Medicine Powerup.</Text>
+						<ID>10094</ID>
+					</Description>
+					
+					<TokenID>9808</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Heals 3 Penguins.</Text>
+						<ID>10095</ID>
+					</Description>
+					
+					<TokenID>9809</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>
+		</CategoryData>
+		
+		
+		
+		
+		<CategoryData>
+			<CategoryID>486</CategoryID>
+			
+			<CategoryName>
+				<Text>Collectible Upgrades</Text>
+				<ID>0</ID>
+			</CategoryName>
+			
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoStoreCombineBucks</CategoryIcon>
+			
+<!--			<ItemData>
+				<ItemID>9819</ItemID>
+				
+				<ItemName>
+					<Text>Score Multiplier</Text>
+					<ID>10107</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Score Multiplier</Text>
+					<ID>10108</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMKowalskiAbacus</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Increases duration of Score Multiplier collectible</Text>
+						<ID>10109</ID>
+					</Description>
+					
+					<TokenID>9815</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Increases duration of Score Multiplier collectible</Text>
+						<ID>10110</ID>
+					</Description>
+					
+					<TokenID>9816</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Increases duration of Score Multiplier collectible</Text>
+						<ID>10111</ID>
+					</Description>
+					
+					<TokenID>9817</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Increases duration of Score Multiplier collectible</Text>
+						<ID>10112</ID>
+					</Description>
+					
+					<TokenID>9818</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>150000</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>-->
+			
+			<ItemData>
+				<ItemID>9837</ItemID>
+				
+				<ItemName>
+					<Text>Magnet</Text>
+					<ID>10040</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Magnet</Text>
+					<ID>10068</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMCollectMagnet</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Increases duration of Magnet to 10 seconds.</Text>
+						<ID>10096</ID>
+					</Description>
+					
+					<TokenID>9833</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Increases duration of Magnet to 15 seconds.</Text>
+						<ID>10097</ID>
+					</Description>
+					
+					<TokenID>9834</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Increases duration of Magnet to 20 seconds.</Text>
+						<ID>10028</ID>
+					</Description>
+					
+					<TokenID>9835</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Increases duration of Magnet to 30 seconds.</Text>
+						<ID>10099</ID>
+					</Description>
+					
+					<TokenID>9836</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9842</ItemID>
+				
+				<ItemName>
+					<Text>Speed</Text>
+					<ID>10041</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>Upgrade Speed</Text>
+					<ID>10069</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMCollectAtomic</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+				<ItemUpgradeInfo>
+					<Level>1</Level>
+					
+					<Description>
+						<Text>Increases Speed boost to last from 750 - 1250 meters.</Text>
+						<ID>10100</ID>
+					</Description>
+					
+					<TokenID>9838</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>2</Level>
+					
+					<Description>
+						<Text>Increases Speed boost to last from 1250 - 1750 meters.</Text>
+						<ID>10101</ID>
+					</Description>
+					
+					<TokenID>9839</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>3</Level>
+					
+					<Description>
+						<Text>Increases Speed boost to last from 1750 - 2250 meters.</Text>
+						<ID>10102</ID>
+					</Description>
+					
+					<TokenID>9840</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+				<ItemUpgradeInfo>
+					<Level>4</Level>
+					
+					<Description>
+						<Text>Increases Speed boost to last from 2250 - 3000 meters.</Text>
+						<ID>10103</ID>
+					</Description>
+					
+					<TokenID>9841</TokenID>
+					<PriceInfo>
+						<AppStoreID></AppStoreID>
+						<Price>0</Price>
+						<Currency></Currency>
+						<PriceType>GC</PriceType>
+					</PriceInfo>
+				</ItemUpgradeInfo>
+			</ItemData>			
+	</CategoryData>
+	</StoreInfo>
+	
+	<StoreInfo>
+		<StoreID>104</StoreID>
+		<StoreName>InGameItems</StoreName>
+		<StoreIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMContentItem2</StoreIcon>
+		<CategoryData>
+			<CategoryID>1000</CategoryID>
+			<CategoryName>NotPurchasable</CategoryName>
+			<CategoryIcon>RS_DATA/IconsPoM.unity3d/IcoDWPoMCostumeItem1</CategoryIcon>
+			<ItemData>
+				<ItemID>9829</ItemID>
+				
+				<ItemName>
+					<Text>Mystery box</Text>
+					<ID>10033</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>The Mysterious box!!!</Text>
+					<ID>10070</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/IcoDWPoMCollectMysteryBox</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>MysteryBox</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>GC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+			</ItemData>
+			
+			<ItemData>
+				<ItemID>9831</ItemID>
+				
+				<ItemName>
+					<Text>Cheezy Dibble Crate</Text>
+					<ID>10042</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>A crate full of dibbles.</Text>
+					<ID>10071</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMDibblesPack04</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+            		</ItemData>
+            
+            		<ItemData>
+				<ItemID>9832</ItemID>
+				
+				<ItemName>
+					<Text>Cheezy Dibble Safe</Text>
+					<ID>10043</ID>
+				</ItemName>
+				
+				<Description>
+					<Text>A vault full of dibbles, Hurray!!!!.</Text>
+					<ID>10072</ID>
+				</Description>
+				
+				<IconName>RS_DATA/IconsPoM.unity3d/AniDWPoMDibblesPack04</IconName>
+				<ItemRes></ItemRes>
+				<Quantity>1</Quantity>
+				<ItemType>Consumable</ItemType>
+				<InventoryType>Item</InventoryType>
+				<KAStoreID>120</KAStoreID>
+				<PriceInfo>
+					<AppStoreID></AppStoreID>
+					<Price>0</Price>
+					<Currency></Currency>
+					<PriceType>CC</PriceType>
+				</PriceInfo>
+				<ItemStatus>Available</ItemStatus>
+				<InventoryMax>-1</InventoryMax>
+    		</ItemData>
+		</CategoryData>		
+	</StoreInfo>
+
+</StoreData>

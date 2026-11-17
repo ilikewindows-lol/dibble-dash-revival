@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DailyBonusAndPromo>
+	<Days>15</Days>
+	<DailyMission>	
+		<MissionID>1</MissionID>		
+		<MissionItems>
+			<ItemID>100</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBalloon</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>106</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionScissors</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>110</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionTennisBall</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>104</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControl</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>			
+	</DailyMission>
+	<DailyMission>
+		<MissionID>2</MissionID>
+		<MissionItems>
+			<ItemID>105</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControlCar</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>110</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionTennisBall</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>108</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSodaBottle</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>109</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSpring</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>			
+	</DailyMission>
+	<DailyMission>
+		<MissionID>3</MissionID>
+		<MissionItems>
+			<ItemID>110</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionTennisBall</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>106</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionScissors</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>105</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControlCar</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>108</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSodaBottle</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>107</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSkateBoard</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>
+		<MissionID>4</MissionID>
+		<MissionItems>
+			<ItemID>106</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionScissors</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>107</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSkateBoard</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>110</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionTennisBall</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>104</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControl</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>
+		<MissionID>5</MissionID>
+		<MissionItems>
+			<ItemID>107</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSkateBoard</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>101</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBasketball</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>105</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControlCar</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>109</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSpring</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>108</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSodaBottle</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>6</MissionID>		
+		<MissionItems>
+			<ItemID>110</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionTennisBall</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>106</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionScissors</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>108</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSodaBottle</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>105</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControlCar</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>7</MissionID>		
+		<MissionItems>
+			<ItemID>109</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSpring</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>107</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSkateBoard</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>106</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionScissors</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>8</MissionID>		
+		<MissionItems>
+			<ItemID>110</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionTennisBall</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>105</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControlCar</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>107</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSkateBoard</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>108</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSodaBottle</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>109</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSpring</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>9</MissionID>		
+		<MissionItems>
+			<ItemID>100</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBalloon</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>107</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSkateBoard</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>106</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionScissors</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>104</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControl</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>10</MissionID>		
+		<MissionItems>
+			<ItemID>100</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBalloon</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>105</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControlCar</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>107</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSkateBoard</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>11</MissionID>		
+		<MissionItems>
+			<ItemID>100</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBalloon</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>109</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSpring</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>104</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControl</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>12</MissionID>		
+		<MissionItems>
+			<ItemID>100</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBalloon</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>101</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBasketball</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>109</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSpring</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>13</MissionID>		
+		<MissionItems>
+			<ItemID>100</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBalloon</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>101</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBasketball</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>104</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControl</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>14</MissionID>		
+		<MissionItems>
+			<ItemID>100</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBalloon</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>101</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBasketball</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>4</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>104</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControl</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<DailyMission>	
+		<MissionID>15</MissionID>		
+		<MissionItems>
+			<ItemID>109</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionSpring</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>101</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionBasketball</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>5</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>102</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionDeskFan</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>1</NumOfObjectsToCollect>
+		</MissionItems>	
+		<MissionItems>
+			<ItemID>103</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionMallet</IconRes>
+			<DisplayText>11 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>2</NumOfObjectsToCollect>
+		</MissionItems>		
+		<MissionItems>
+			<ItemID>104</ItemID>
+			<IconRes>RS_DATA/IconsPoM.unity3d/IcoPoMMissionRemoteControl</IconRes>
+			<DisplayText>10 coins</DisplayText>
+			<DisplayID>100</DisplayID>
+			<NumOfObjectsToCollect>3</NumOfObjectsToCollect>
+		</MissionItems>	
+	</DailyMission>
+	<!-- Achievement data -->
+	<AchievementData>
+		<AchievementID>201194</AchievementID>
+		<IconURL></IconURL>
+		<RewardData>
+			<PointTypeID>6</PointTypeID>
+			<Amount>1</Amount>
+			<ItemID>9829</ItemID>
+			<ItemQuantity>1</ItemQuantity>
+		</RewardData>
+	</AchievementData>
+	
+	<AchievementData>
+		<AchievementID>201195</AchievementID>
+		<IconURL>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleItem</IconURL>
+		<RewardData>
+			<PointTypeID>2</PointTypeID>
+			<Amount>2500</Amount>
+			<ItemID>-1</ItemID>
+			<ItemQuantity>-1</ItemQuantity>
+		</RewardData>
+	</AchievementData>
+	
+	<AchievementData>
+		<AchievementID>201196</AchievementID>
+		<IconURL>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleItem</IconURL>
+		<RewardData>
+			<PointTypeID>2</PointTypeID>
+			<Amount>2500</Amount>
+			<ItemID>-1</ItemID>
+			<ItemQuantity>-1</ItemQuantity>
+		</RewardData>
+	</AchievementData>
+	
+	<AchievementData>
+		<AchievementID>201197</AchievementID>
+		<IconURL>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleItem</IconURL>
+		<RewardData>
+			<PointTypeID>2</PointTypeID>
+			<Amount>2500</Amount>
+			<ItemID>-1</ItemID>
+			<ItemQuantity>-1</ItemQuantity>
+		</RewardData>
+	</AchievementData>
+	
+	<AchievementData>
+		<AchievementID>201198</AchievementID>
+		<IconURL>RS_DATA/IconsPoM.unity3d/IcoDWPoMDibbleItem</IconURL>
+		<RewardData>
+			<PointTypeID>2</PointTypeID>
+			<Amount>2500</Amount>
+			<ItemID>-1</ItemID>
+			<ItemQuantity>-1</ItemQuantity>
+		</RewardData>
+	</AchievementData>
+	
+	<!--
+	<AchievementID>201194</AchievementID>
+	<AchievementID>201195</AchievementID>
+	<AchievementID>201196</AchievementID>
+	<AchievementID>201197</AchievementID>
+	<AchievementID>201198</AchievementID>
+	-->
+</DailyBonusAndPromo>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameDataConfig>
+	<MMOLevelData>
+	</MMOLevelData>
+  <OptimizationData>
+		<UpdateFrequency>1</UpdateFrequency><!-- In Seconds -->
+		<LowMemoryThreshold>
+			<Min>0</Min><!-- In MB`s -->
+			<Max>15</Max><!-- In MB`s -->
+		</LowMemoryThreshold>
+		<MediumMemoryThreshold>
+			<Min>20</Min><!-- In MB`s -->
+			<Max>35</Max><!-- In MB`s -->
+		</MediumMemoryThreshold>
+		<HighMemoryThreshold>
+			<Min>40</Min><!-- In MB`s -->
+			<Max>999999</Max><!-- In MB`s -->
+		</HighMemoryThreshold><!-- In MB`s -->
+    <GlobalLevelData>
+      <SceneName></SceneName>
+      <DisplayRemoveDistance>20</DisplayRemoveDistance>
+      <RaisedPetRemoveDistance>20</RaisedPetRemoveDistance>
+    </GlobalLevelData>
+    <GoodFPS>6</GoodFPS>
+    <PlatformOptimizationDatas>
+			<PlatformOptimizationData Name="Low">
+				<Platforms>
+					<string>iPhone</string>
+					<string>iPod</string>
+					<string>iPad1</string>
+					<string>iPad2</string>
+					<string>iPadMini</string>
+					<string>ANDROID_LOW</string>
+					<string>ANDROID_1Gb</string>
+				</Platforms>
+				<MaxMMO>10</MaxMMO>
+				<MaxFullMMO>0</MaxFullMMO>
+				<IsLowPerformance>true</IsLowPerformance>
+				<IsLowMemory>true</IsLowMemory>
+			</PlatformOptimizationData>	    
+			<PlatformOptimizationData Name="Moderate">
+				<Platforms>
+					<string>iPad3</string>
+					<string>ANDROID_2Gb</string>
+				</Platforms>
+				<MaxMMO>15</MaxMMO>
+				<MaxFullMMO>0</MaxFullMMO>
+				<IsLowPerformance>true</IsLowPerformance>
+				<IsLowMemory>false</IsLowMemory>
+			</PlatformOptimizationData>
+			<PlatformOptimizationData Name="High">
+				<Platforms>
+					<string>IOS</string>
+					<string>ANDROID</string>
+				</Platforms>
+				<MaxMMO>25</MaxMMO>
+				<MaxFullMMO>10</MaxFullMMO>
+				<IsLowPerformance>false</IsLowPerformance>
+				<IsLowMemory>false</IsLowMemory>
+			</PlatformOptimizationData>
+			<PlatformOptimizationData Name="default">
+				<Platforms>
+				</Platforms>
+				<MaxMMO>50</MaxMMO>
+				<MaxFullMMO>50</MaxFullMMO>
+				<IsLowPerformance>false</IsLowPerformance>
+				<IsLowMemory>false</IsLowMemory>
+			</PlatformOptimizationData>
+		</PlatformOptimizationDatas>
+  </OptimizationData>
+	<GuestEnabled>true</GuestEnabled>
+	<!--In MB`s-->
+	<UiMemoryData>
+		<Type>GameSettings</Type>
+		<MinMemory>10</MinMemory>
+	</UiMemoryData>
+	<UiMemoryData>
+		<Type>Store</Type>
+		<MinMemory>500</MinMemory>
+	</UiMemoryData>
+	<UiMemoryData>
+		<Type>Clans</Type>
+		<MinMemory>500</MinMemory>
+	</UiMemoryData>
+	<UiMemoryData>
+		<Type>SocialPage</Type>
+		<MinMemory>500</MinMemory>
+	</UiMemoryData>
+  <CameraFarClip>600</CameraFarClip>
+	<MinAppMemory>500</MinAppMemory>
+	<ShowLowMemoryWarning>true</ShowLowMemoryWarning>
+	<ServerErrorMessages>
+        <Error>
+            <ErrorText>Empty reply from server</ErrorText>
+            <ErrorMessageText>The server call timed out. Please try again later.</ErrorMessageText>
+            <ErrorMessageID>0</ErrorMessageID>
+            <MaxRetries>3</MaxRetries>
+        </Error>
+        <Error>
+            <ErrorText>necessary data rewind wasn't possible</ErrorText>
+            <ErrorMessageText>The server is under maintenance. Please try again later.</ErrorMessageText>
+            <ErrorMessageID>0</ErrorMessageID>
+        </Error>
+        <Error>
+            <ErrorText>500 internal server error</ErrorText>
+            <ErrorMessageText>There was an internal server error! Please load the game again.</ErrorMessageText>
+            <ErrorMessageID>2</ErrorMessageID>
+        </Error>
+        <Error>
+            <ErrorText>couldn't connect to host</ErrorText>
+            <ErrorMessageText>Could not connect to internet. Please check your connection and try again.</ErrorMessageText>
+            <ErrorMessageID>0</ErrorMessageID>
+        </Error>
+        <!--<Error>
+         <ErrorText>Couldn't open file</ErrorText>
+         <ErrorText>Failed downloading</ErrorText>
+         <ErrorText>java.io.FileNotFoundException</ErrorText>
+         <ErrorMessageText>Download failed! Please load the game again.</ErrorMessageText>
+         <ErrorMessageID>0</ErrorMessageID>
+         </Error>-->
+        <Error>
+            <ErrorText>java.net.SocketException: Socket is closed</ErrorText>
+            <ErrorMessageText>Sorry, Network Error!</ErrorMessageText>
+            <ErrorMessageID>0</ErrorMessageID>
+        </Error>
+		<ExcludeUrl>AnalyticsWebService.asmx</ExcludeUrl>
+		<ExcludeUrl>Serverdown.xml</ExcludeUrl>
+		<ExcludeUrl>Snd</ExcludeUrl>
+		<ExcludeUrl>Dlg</ExcludeUrl>
+	</ServerErrorMessages>
+</GameDataConfig>

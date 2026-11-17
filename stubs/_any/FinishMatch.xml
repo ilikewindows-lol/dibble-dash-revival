@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FinishMatchResponse>
+  <UserPoints>0</UserPoints>
+  <OpponentPoints>0</OpponentPoints>
+  <Result>
+  <Error>0</Error>
+  <Message />
+</Result>
+</FinishMatchResponse>

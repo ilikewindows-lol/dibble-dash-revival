@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AdMobData>
+	<PublisherID>pub-9439524785077127</PublisherID>
+	<AdData>
+		<Tag>SmartBanner</Tag>
+		<AdUnitID>ca-app-pub-9439524785077127/7826290893</AdUnitID>
+		<Position>0</Position>
+		<AdType>SmartBanner</AdType>
+		<Scenes>
+			<string>RunnerPoM</string>
+		</Scenes>
+	</AdData>
+	<AdData>
+		<Tag>SmartBannerBottom</Tag>
+		<AdUnitID>ca-app-pub-9439524785077127/7826290893</AdUnitID>
+		<Position>1</Position>
+		<AdType>SmartBanner</AdType>
+		<Scenes>
+			<string>RunnerPoM</string>
+		</Scenes>
+	</AdData>
+	<AdData>
+		<Tag>BannerBig</Tag>
+		<AdUnitID>ca-app-pub-9439524785077127/7106011298</AdUnitID>
+		<Position>1</Position>
+		<AdType>Banner</AdType>
+		<Scenes>
+			<string>RunnerPoM</string>
+		</Scenes>
+	</AdData>
+	<AdData>
+		<Tag>BannerSmall</Tag>
+		<AdUnitID>ca-app-pub-9439524785077127/1013948491</AdUnitID>
+		<Position>0</Position>
+		<AdType>Banner</AdType>
+		<Scenes>
+			<string>RunnerPoM</string>
+		</Scenes>
+	</AdData>
+	<AdData>
+		<Tag>Interestial</Tag>
+		<AdUnitID>ca-app-pub-8641915702400684/8918317037</AdUnitID>
+		<Position>0</Position>
+		<AdType>Interstitial</AdType>
+		<Scenes>
+			<string>RunnerPoM</string>
+		</Scenes>
+	</AdData>
+</AdMobData>
+
+<!--
+Ad position constants : 0 : Top, 1 : Bottom
+Ad Types: Banner, SmartBanner, Leaderboard, IABBanner, MediumRectangle, Interstitial
+-->

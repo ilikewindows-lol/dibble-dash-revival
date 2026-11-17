@@ -1,0 +1,1194 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Karen Haugland</Author>
+  <LastAuthor>Brian Choi</LastAuthor>
+  <Created>2003-06-09T21:57:45Z</Created>
+  <LastSaved>2014-11-07T02:29:39Z</LastSaved>
+  <Company>Knowledge Adventure</Company>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <DownloadComponents/>
+  <LocationOfComponents HRef="/"/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>1320</WindowHeight>
+  <WindowWidth>13410</WindowWidth>
+  <WindowTopX>3375</WindowTopX>
+  <WindowTopY>7140</WindowTopY>
+  <Date1904/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Geneva" x:Family="Swiss" ss:Size="9"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Geneva" x:Family="Swiss" ss:Size="9"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Geneva" x:Family="Swiss" ss:Size="9" ss:Color="#0000FF"/>
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="256" ss:ExpandedRowCount="99" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="43.5" ss:DefaultRowHeight="12">
+   <Column ss:AutoFitWidth="0" ss:Width="58.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="207.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="105.75"/>
+   <Column ss:Width="117"/>
+   <Column ss:AutoFitWidth="0" ss:Width="108.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="58.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="92.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="59.25"/>
+   <Column ss:Width="81.75"/>
+   <Column ss:Width="67.5"/>
+   <Column ss:Width="57.75" ss:Span="1"/>
+   <Column ss:Index="13" ss:Width="37.5"/>
+   <Column ss:Width="33.75"/>
+   <Column ss:Width="81"/>
+   <Column ss:AutoFitWidth="0" ss:Width="170.25"/>
+   <Column ss:Width="158.25"/>
+   <Column ss:Width="137.25"/>
+   <Column ss:Width="173.25" ss:Span="1"/>
+   <Column ss:Index="21" ss:AutoFitWidth="0" ss:Width="60" ss:Span="235"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+    <Cell><Data ss:Type="String">TbPOMRunnerCaptures.xml</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+    <Cell><Data ss:Type="String">ContentCaptureFile referenced in TbPOMRunnerLessons.xml</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+    <Cell><Data ss:Type="String">Each table contains the data file names for a single activity</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+    <Cell><Data ss:Type="String">Each data file contians MinQuestionPerRound questions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+    <Cell><Data ss:Type="String">When the lesson starts, one data file is randomly chosen to be used</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">//</Data></Cell>
+    <Cell><Data ss:Type="String">tfFileName</Data></Cell>
+    <Cell><Data ss:Type="String">the name of a binary data file for this lesson</Data></Cell>
+   </Row>
+   <Row ss:Index="11" ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Schema ID</Data></Cell>
+    <Cell><Data ss:Type="String">tsLGContent</Data></Cell>
+   </Row>
+   <Row ss:Index="13" ss:AutoFitHeight="0">
+    <Cell ss:Index="11"><Data ss:Type="String">//ms</Data></Cell>
+    <Cell><Data ss:Type="String">//ms</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Field ID</Data></Cell>
+    <Cell><Data ss:Type="String">tfFileName</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">tfAttributes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Field Type</Data></Cell>
+    <Cell><Data ss:Type="String">string</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">string</Data></Cell>
+   </Row>
+   <Row ss:Index="17" ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Table ID</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">tnPOMRunnerAddSubLevel1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Records</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_01.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">SingleEnemySpeed,15 :MultiEnemySpeed,20 : MinEnemiesCount, 2</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_02.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:Index="6" ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_03.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_04.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_05.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_06.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_07.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_08.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_09.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel1_10.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EndRecords</Data></Cell>
+   </Row>
+   <Row ss:Index="31" ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Table ID</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">tnPOMRunnerAddSubLevel2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Records</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_01.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">SingleEnemySpeed,20 :MultiEnemySpeed,25 :MinEnemiesCount, 2</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_02.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:Index="6" ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_03.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_04.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_05.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_06.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_07.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_08.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_09.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel2_10.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EndRecords</Data></Cell>
+   </Row>
+   <Row ss:Index="45" ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Table ID</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">tnPOMRunnerAddSubLevel3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Records</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_01.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">SingleEnemySpeed,25 :MultiEnemySpeed,30:MinEnemiesCount, 3</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_02.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:Index="6" ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_03.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_04.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_05.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_06.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_07.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_08.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_09.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapAddSubLevel3_10.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EndRecords</Data></Cell>
+   </Row>
+   <Row ss:Index="59" ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Table ID</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">tnPOMRunnerMultDivLevel1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Records</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_01.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">SingleEnemySpeed,15 :MultiEnemySpeed,20:MinEnemiesCount, 2</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_02.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:Index="6" ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_03.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_04.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_05.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_06.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_07.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_08.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_09.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel1_10.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EndRecords</Data></Cell>
+   </Row>
+   <Row ss:Index="73" ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Table ID</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">tnPOMRunnerMultDivLevel2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Records</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_01.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">SingleEnemySpeed,20 :MultiEnemySpeed,25:MinEnemiesCount, 2</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_02.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:Index="6" ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_03.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_04.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_05.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_06.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_07.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_08.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_09.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel2_10.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EndRecords</Data></Cell>
+   </Row>
+   <Row ss:Index="87" ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Table ID</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">tnPOMRunnerMultDivLevel3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Records</Data></Cell>
+    <Cell ss:Index="5" ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_01.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">SingleEnemySpeed,25 :MultiEnemySpeed,30:MinEnemiesCount, 3</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_02.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:Index="6" ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_03.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_04.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_05.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_06.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_07.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_08.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_09.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:Index="2"><Data ss:Type="String">POMRunnerTrapMultDivLevel3_10.bin</Data></Cell>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+    <Cell ss:StyleID="Default"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">EndRecords</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>48</TopRowVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitVertical>1</SplitVertical>
+   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <ActivePane>1</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>1</Number>
+     <ActiveRow>71</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="256" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="43.5" ss:DefaultRowHeight="12">
+   <Column ss:AutoFitWidth="0" ss:Width="60" ss:Span="255"/>
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet3">
+  <Table ss:ExpandedColumnCount="256" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="43.5" ss:DefaultRowHeight="12">
+   <Column ss:AutoFitWidth="0" ss:Width="60" ss:Span="255"/>
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

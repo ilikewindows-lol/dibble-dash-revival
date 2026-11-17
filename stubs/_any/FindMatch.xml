@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FindMatchResponse>
+  <OpponentUserID>0f1e2d3c-4b5a-4968-8776-655443322110</OpponentUserID>
+  <OpponentDisplayName />
+  <MatchStatistics />
+  <Result>
+  <Error>0</Error>
+  <Message />
+</Result>
+  <IsWhiteListed>true</IsWhiteListed>
+</FindMatchResponse>

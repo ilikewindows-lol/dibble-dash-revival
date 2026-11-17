@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserInfo xmlns="http://api.jumpstart.com/">
+  <MembershipID xmlns="" />
+  <UserID xmlns="" />
+  <ParentUserID xmlns="" />
+  <Username xmlns="" />
+  <FirstName xmlns="" />
+  <MultiplayerEnabled xmlns="">true</MultiplayerEnabled>
+  <Partner xmlns="" />
+  <lid xmlns="" />
+  <oce xmlns="">true</oce>
+  <IsApproved xmlns="">true</IsApproved>
+</UserInfo>
